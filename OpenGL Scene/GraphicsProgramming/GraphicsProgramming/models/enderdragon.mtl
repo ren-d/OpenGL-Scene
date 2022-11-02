@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Enderdragon
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Work Mode\\Downloads\\minecraft-ender-dragon\\textures\\ender_dragon.png
+map_d C:\\Users\\Work Mode\\Downloads\\minecraft-ender-dragon\\source\\enderdragon_opacity.png
