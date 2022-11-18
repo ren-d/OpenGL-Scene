@@ -22,4 +22,4 @@ Hierarchical Modelling
 
 Stencil buffer
 
-Wireframe mode
+Wireframe rendering
